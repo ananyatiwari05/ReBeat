@@ -1,5 +1,5 @@
 body{
-    background-image: url("music_bg.png");
+    background-image: url("menu_bg.png");
 	background-size: cover;
 	background-position: center;
 	z-index: -1;
@@ -23,6 +23,8 @@ body{
 	border-radius:50px;
 	font-size: x-large;
 	font-family:'Press Start 2P', cursive;
+	background-color: white;
+	text-align: center;
 }
 .silkscreen-regular {
 	font-family: "Silkscreen", serif;
